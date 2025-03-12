@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UP_CarShering.props" />
+</Project>

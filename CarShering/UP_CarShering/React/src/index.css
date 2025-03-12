@@ -1,0 +1,174 @@
+body {
+    max-height: 90vh;
+    background:#B20505;
+    font-family: 'Lobster';
+    color: white;
+    margin:0 auto;
+}
+.headercont {
+    background-color: #6F0000; 
+    display: flex;
+    align-items: center;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    height: 90px;
+    max-width: 1250px;
+}
+.list {
+    list-style: none;
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.item {
+    margin-right: 120px;
+    color: rgb(255, 255, 255);
+    padding: 50px;
+}
+.tabs {
+    margin: 50px 100px 30px 410px;
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: space-between;
+    max-width: 500px;
+}
+.tabstabl {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;   
+}
+.button {
+    background-color: #810101;
+    border-radius: 60px;
+    border:none;
+    padding: 9px 12px;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    width: 100%;
+    max-width: 200px;
+    transition: background-color 0.3s ease;
+    font-family: "Lobster";
+  }
+  .button:hover {
+        background-color: #6F0000;
+    }
+.button_yellow{
+    background-color: #FF9500;
+    border-radius: 60px;
+    border:none;
+    padding: 9px 12px;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    width: 100%;
+    max-width: 120px;
+    transition: background-color 0.3s ease;
+    font-family: "Lobster";
+    }
+.button_yellow:hover{
+        background-color: #dc8000;
+    }
+.inputs {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); 
+    justify-items: center; 
+    padding: 10px;
+    margin: auto;
+    gap: 10px; 
+}
+input,select{
+    font-family: "Lobster";
+    border-radius: 60px;
+    border: 1px solid #ccc; 
+    padding: 9px 12px;
+    width: 100%;
+    max-width: 350px;
+    box-sizing: border-box;  
+    transition: border-color 0.3s ease; 
+}
+input:focus {
+    outline: none; 
+    border-color: #555;
+    box-shadow: 0 0 5px #555; 
+}
+footer {
+    background-color: #6F0000;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 30px;
+    margin-top: 100px;
+    }
+.maintext {
+    font-size: 50px;
+    text-shadow:  -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000; 
+    background-image: url('./assets/carsfon.png');
+    background-repeat: no-repeat;
+    background-size: contain;   
+    width: 1300px;   
+    padding: 5rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block; 
+    box-sizing:border-box;      
+    }
+h1{
+    font-size: 25px;
+    text-shadow:  -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000,
+    -2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000; 
+    max-width: 1200px;
+    display: contents; 
+}
+ul{
+    list-style: none; 
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    margin: 0 auto;
+}
+li{
+    width: 100%; 
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #444; 
+    border-radius: 5px; 
+    background-color: #333;
+}
+.contents{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center;
+    margin: 0 auto;
+}
+.content{
+    width: 100%; 
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #444; 
+    border-radius: 5px; 
+    background-color: #333;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    justify-content: space-between;
+}
+@font-face {
+    font-family: "Lobster";
+    src: url("./fonts/Lobster-Regular.ttf");
+    font-weight: normal;
+    font-size: normal;
+}

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CarShering\\UP_CarShering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:controllers\\driverscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\controllers\\transportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:controllers\\transportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:controllers\\billcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\models\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:models\\drivers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:models\\transport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\models\\loginpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:models\\loginpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|e:\\carshering\\up_carshering\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{131E85C3-17AF-471B-94BD-BC7B55EBC360}|UP_CarShering.csproj|solutionrelative:models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPass.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Models\\LoginPass.cs",
+              "RelativeDocumentMoniker": "Models\\LoginPass.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Models\\LoginPass.cs",
+              "RelativeToolTip": "Models\\LoginPass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:49:36.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T06:27:03.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transport.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Models\\Transport.cs",
+              "RelativeDocumentMoniker": "Models\\Transport.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Models\\Transport.cs",
+              "RelativeToolTip": "Models\\Transport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:12:34.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "Models\\Employees.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Models\\Employees.cs",
+              "RelativeToolTip": "Models\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:12:33.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Drivers.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Models\\Drivers.cs",
+              "RelativeDocumentMoniker": "Models\\Drivers.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Models\\Drivers.cs",
+              "RelativeToolTip": "Models\\Drivers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T15:12:32.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:52:24.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillController.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Controllers\\BillController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BillController.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Controllers\\BillController.cs",
+              "RelativeToolTip": "Controllers\\BillController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:29:27.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransportController.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Controllers\\TransportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransportController.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Controllers\\TransportController.cs",
+              "RelativeToolTip": "Controllers\\TransportController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:29:13.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DriversController.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Controllers\\DriversController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DriversController.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Controllers\\DriversController.cs",
+              "RelativeToolTip": "Controllers\\DriversController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowDYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:07:26.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "Models\\Bill.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Models\\Bill.cs",
+              "RelativeToolTip": "Models\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:46:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:32:47.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\CarShering\\UP_CarShering\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationContext.cs",
+              "ToolTip": "E:\\CarShering\\UP_CarShering\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "Data\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T17:06:37.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
